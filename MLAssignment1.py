@@ -24,7 +24,7 @@ print(range1)
 
 Q2
 dog = dict()
-dog["name"] = "BROWNIE"
+dog["name"] = "bruno"
 dog["color"] = "BLACK"
 dog["breed"] = "GREAT DANE"
 dog["legs"] = "4"
@@ -32,34 +32,34 @@ dog["age"] = "9"
 print(dog)
 
 student = dict()
-student["first_name"] = "SPARSHA"
-student["last_name"] = "ADURI"
-student["gender"] = "FEMALE"
+student["first_name"] = "vijender"
+student["last_name"] = "reddy"
+student["gender"] = "MALE"
 student["age"] = "22"
 student["hobbies"] = ["CRICKET" , "MUSIC"]
-student["achievements"] = "STATE CHAMPION"
+student["achievements"] = "volleyballer"
 student["country"] = "INDIA"
-student["city"] = "PDPL"
-student["ph no"] = "+91 9378762761"
+student["city"] = "hyd"
+student["ph no"] = "+91 123456788"
 print(student)
 length1 = len(student)
 print(length1)
 print(student["hobbies"])
 print(type(student["hobbies"]))
-student["hobbies"].extend(["STATE CHAMPOIN"])
+student["hobbies"].extend(["volleyballer"])
 print(student["hobbies"])
 print(student.keys())
 print(student.values())
 
 Q3
 
-brothers = ("SUJITH", "VARSHIK", "VAMSHI");
-sisters = ("SATVIKA", "SRUTHI", "VANITHA");
+brothers = ("viiiju", "Venu", "VAMSHI");
+sisters = ("swathi", "sushma ", "vamika");
 siblings = sisters + brothers;
 print(siblings);
 length1 = (siblings);
 print(length1);
-family_members = siblings + ("VIKAS", "KAVYA");
+family_members = siblings + ("Venu", "lalitha");
 print(family_members);
 
 Q4

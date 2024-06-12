@@ -23,5 +23,15 @@ DONE BY VIJENDER REDDY KOOTURU
 
 700765220
 
-RECORDING VIDEO LINK: https://drive.google.com/file/d/1tbkWAF3TCJC7tKidJeF6a5Zh9GFFAcVA/view?us
-p=drive_link
+RECORDING VIDEO LINK: https://drive.google.com/file/d/1tbkWAF3TCJC7tKidJeF6a5Zh9GFFAcVA/view?usp=drive_link
+
+
+ML ASSIGNMENT 1
+
+DONE BY VIJENDER REDDY KOOTURU
+
+700765220
+
+RECORDING VIDEO LINK:
+
+
